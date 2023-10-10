@@ -1,0 +1,25 @@
+h1
+
+{
+    color:rgb(255, 0, 0);
+}
+
+p
+
+{
+    color: rgba(255, 0, 0, 0.863);
+}
+
+body
+
+{
+    background-image:url("kwadrat.jpg");
+    background-size:cover;
+    
+}
+
+h2
+
+{
+    color: rgb(42, 56, 255);
+}
